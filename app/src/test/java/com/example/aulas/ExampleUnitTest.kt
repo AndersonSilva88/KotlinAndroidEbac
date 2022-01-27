@@ -1,4 +1,4 @@
-package com.example.variaveis
+package com.example.aulas
 
 import org.junit.Test
 

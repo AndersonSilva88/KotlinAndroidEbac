@@ -1,4 +1,4 @@
-package com.example.variaveis.operations
+package com.example.aulas.operations
 
 class Operations {
 }

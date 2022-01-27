@@ -1,4 +1,4 @@
-package com.example.variaveis.conditionaisLoop
+package com.example.aulas.conditionaisLoop
 
 class Loop {
 }

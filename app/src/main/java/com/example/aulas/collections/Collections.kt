@@ -1,4 +1,4 @@
-package com.example.variaveis
+package com.example.aulas
 
 fun main() {
     var array: Array<String> = Array(10) { "" }

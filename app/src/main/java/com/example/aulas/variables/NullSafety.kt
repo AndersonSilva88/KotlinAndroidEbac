@@ -1,4 +1,4 @@
-package com.example.variaveis.variables
+package com.example.aulas.variables
 
 class NullSafety {
 }
